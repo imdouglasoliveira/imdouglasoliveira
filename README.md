@@ -35,4 +35,6 @@
 - [LinkedIn](https://www.linkedin.com/in/imdsoliveira)
 - [Instagram](https://instagram.com/imdouglasoliveira)
 - [Ache um Dev Profile](https://acheumdev.com.br/profissional/imdouglasoliveira)
+- [Reddit](https://www.reddit.com/user/Single-Swimmer5049/)
+- [X](https://x.com/imdoug_oliveira)
 - 📫 Email: [gestao@doed.com.br](mailto:gestao@doed.com.br)
