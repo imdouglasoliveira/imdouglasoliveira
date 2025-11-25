@@ -38,3 +38,4 @@
 - [Reddit](https://www.reddit.com/user/Single-Swimmer5049/)
 - [X](https://x.com/imdoug_oliveira)
 - 📫 Email: [gestao@doed.com.br](mailto:gestao@doed.com.br)
+- [Google Developers](https://g.dev/imdsoliveira)
