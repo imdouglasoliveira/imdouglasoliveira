@@ -1,38 +1,58 @@
 # 👋 Hey there!
 
-### My name is Douglas Oliveira
+### I'm Douglas Oliveira
 
-💡 I'm passionate about building smart, scalable, and accessible digital solutions using Low-Code, No-Code and automation technologies.
+💡 I build smart, scalable and accessible digital solutions combining **Low-Code / No-Code**, custom **code**, and **automation**.
 
-🚀 I'm the founder of [a8z](https://a8z.com.br), a company focused on process automation and AI-driven strategies — from A to Z.
+🚀 I'm the founder of **a8z**, a company focused on process automation and AI-driven strategies — from A to Z.
 
-🛠️ I help businesses design and implement digital flows that optimize their operations, reduce repetitive tasks, and improve strategic decision-making.
+🛠️ I help businesses design and implement digital flows that:
+- optimize operations  
+- reduce repetitive work  
+- and improve strategic decision-making
 
 ---
 
-### 🔧 Main Tech Stack
+### 🧰 Tech I work with
 
-- **Automation**: n8n | Python | Webhooks | API integrations
-- **Frontend**: WeWeb | Framer | Typebot
-- **Backend**: Supabase | Firebase | Xano
-- **No-Code / Low-Code**: Bubble | WeWeb
-- **Infra**: Docker | VPS | Cloudflare | Traefik
+**Languages & Runtime**
+- TypeScript | JavaScript | Python | SQL | Node.js
+
+**Frontend**
+- React | WeWeb | Framer | Typebot  
+- Component-driven design | Responsive layouts | Accessible UI
+
+**Backend & Data**
+- Supabase (PostgreSQL) | PostgreSQL  
+- Firebase | Xano  
+- REST APIs | Webhooks | Auth & RBAC
+
+**Automation & AI**
+- n8n | API integrations | Event-driven workflows  
+- AI assistants & tools orchestration  
+- Integrations with CRMs, ERPs and internal systems
+
+**Infra & DevOps**
+- Docker | VPS / Linux servers  
+- Cloudflare | Traefik  
+- CI/CD, monitoring and environment structuring (dev/stage/prod)
 
 ---
 
 ### 🎯 How I can contribute
 
-- Building **scalable MVPs** with speed and flexibility
-- Automating complex workflows with clarity and precision
-- Connecting business logic to technology through smart architecture
-- Deploying custom infrastructures that are lightweight and efficient
-- Bringing a strategic perspective to projects that need more than just code
+- Building **scalable MVPs** quickly, without sacrificing architecture
+- Automating **complex workflows** with clear, maintainable logic
+- Bridging **business rules** and **technical implementation**
+- Designing data models and APIs that are easy to evolve
+- Deploying **lightweight, cost-efficient infrastructures**
+- Bringing a **strategic product mindset**, not just “coding features”
 
 ---
 
 ### 🤝 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/imdsoliveira)
+- [LinkedIn](https://www.linkedin.com/in/imdsoliveira/)
 - [Instagram](https://instagram.com/imdouglasoliveira)
 - [Ache um Dev Profile](https://acheumdev.com.br/profissional/imdouglasoliveira)
 - [Reddit](https://www.reddit.com/user/Single-Swimmer5049/)
