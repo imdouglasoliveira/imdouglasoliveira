@@ -1,0 +1,82 @@
+# Galaxy Profile — Douglas Oliveira
+# Generated SVGs: python -m generator.main
+# Demo mode (no API): python -m generator.main --demo
+
+username: imdouglasoliveira
+
+profile:
+  name: "Douglas Oliveira"
+  tagline: "Full-Stack Developer — from Figma to Deploy"
+  company: "a8z"
+  location: "Brazil"
+  bio: |
+    I build production-ready web and mobile apps for SaaS, CRMs and dashboards.
+    Focus on performance, clean code organization and predictable delivery.
+  philosophy: '"From A to Z — automation, architecture and real results."'
+
+social:
+  email: "gestao@doed.com.br"
+  linkedin: "imdsoliveira"
+  website: "https://g.dev/imdsoliveira"
+
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Next.js"
+      - "React Native"
+      - "Vue"
+  - name: "Backend & Data"
+    color: "synapse_cyan"
+    items:
+      - "Node.js"
+      - "Python"
+      - "PostgreSQL"
+      - "Supabase"
+      - "REST APIs"
+  - name: "Automation & Infra"
+    color: "axon_amber"
+    items:
+      - "n8n"
+      - "Docker"
+      - "Cloudflare"
+      - "GitHub Actions"
+      - "AI Agents"
+
+projects:
+  - repo: "imdouglasoliveira/a8z-frontend"
+    arm: 0
+    description: "React dashboard with TanStack, shadcn/ui, Kanban, rich-text editor and real-time sync."
+  - repo: "imdouglasoliveira/a8z-api"
+    arm: 1
+    description: "Fastify REST API with RBAC, MCP server, SQLite analytics and Supabase integration."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+    - "Batchfile"
+  max_display: 8
